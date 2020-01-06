@@ -1,0 +1,46 @@
+{
+  "_from": "cordova-plugin-low-power-mode",
+  "_id": "cordova-plugin-low-power-mode@0.1.4",
+  "_inBundle": false,
+  "_integrity": "sha1-GlkKWV5kufi+12rqwzx02iBLMGE=",
+  "_location": "/cordova-plugin-low-power-mode",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "cordova-plugin-low-power-mode",
+    "name": "cordova-plugin-low-power-mode",
+    "escapedName": "cordova-plugin-low-power-mode",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/cordova-plugin-low-power-mode/-/cordova-plugin-low-power-mode-0.1.4.tgz",
+  "_shasum": "1a590a595e64b9f8bed76aeac33c74da204b3061",
+  "_spec": "cordova-plugin-low-power-mode",
+  "_where": "/Users/langdy/dev/moing-cordova",
+  "author": {
+    "name": "Willian Policiano",
+    "url": "willwfsp"
+  },
+  "bundleDependencies": false,
+  "cordova": {
+    "id": "cordova-plugin-low-power-mode",
+    "platforms": [
+      "ios"
+    ]
+  },
+  "deprecated": false,
+  "description": "Detects if batery state is in Low Power Mode.",
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-ios"
+  ],
+  "license": "ISC",
+  "name": "cordova-plugin-low-power-mode",
+  "version": "0.1.4"
+}
